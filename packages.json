@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "doctrine/orm": {
+      "dev-master": { @composer.json },
+      "2.6.1-stable": { @composer.json },
+      "2.6.99-stable": { @composer.json },
+      "2.6.x-dev": { @composer.json }
+    }
+  }
+}
